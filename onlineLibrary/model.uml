@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Ws_5UF16EeSaluQpPsac4w" name="model">
+  <packagedElement xmi:type="uml:Class" xmi:id="_15ITQF18EeSaluQpPsac4w" name="Class1"/>
+</uml:Model>
